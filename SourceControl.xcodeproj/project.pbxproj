@@ -11,6 +11,7 @@
 		1EF7E6BA2C065E5E00A6B8AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF7E6B92C065E5E00A6B8AB /* ContentView.swift */; };
 		1EF7E6BC2C065E6100A6B8AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EF7E6BB2C065E6100A6B8AB /* Assets.xcassets */; };
 		1EF7E6BF2C065E6100A6B8AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EF7E6BE2C065E6100A6B8AB /* Preview Assets.xcassets */; };
+		1EF7E6C62C065E9F00A6B8AB /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF7E6C52C065E9F00A6B8AB /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1EF7E6B92C065E5E00A6B8AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1EF7E6BB2C065E6100A6B8AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EF7E6BE2C065E6100A6B8AB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1EF7E6C52C065E9F00A6B8AB /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1EF7E6B72C065E5E00A6B8AB /* SourceControlApp.swift */,
 				1EF7E6B92C065E5E00A6B8AB /* ContentView.swift */,
+				1EF7E6C52C065E9F00A6B8AB /* HomeView.swift */,
 				1EF7E6BB2C065E6100A6B8AB /* Assets.xcassets */,
 				1EF7E6BD2C065E6100A6B8AB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EF7E6C62C065E9F00A6B8AB /* HomeView.swift in Sources */,
 				1EF7E6BA2C065E5E00A6B8AB /* ContentView.swift in Sources */,
 				1EF7E6B82C065E5E00A6B8AB /* SourceControlApp.swift in Sources */,
 			);
