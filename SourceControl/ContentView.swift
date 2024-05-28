@@ -16,6 +16,7 @@ struct ContentView: View {
             }
             Text("Subscribe me")
             Rectangle()
+            Rectangle()
         }
         .padding()
     }
