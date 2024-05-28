@@ -9,7 +9,12 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("Hello Aleksandr")
+        ZStack {
+            Text("Hello Aleksandr")
+        }
+        .onAppear {
+            // some analytic
+        }
     }
 }
 
