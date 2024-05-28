@@ -14,7 +14,7 @@ struct ContentView: View {
             Button("Click me") {
                 
             }
-            Text("Subscribe me")
+            Text("Subscribe me now !")
             Rectangle()
             Rectangle()
         }
